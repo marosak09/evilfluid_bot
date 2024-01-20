@@ -467,5 +467,4 @@ async def clear(ctx, amount: int):
   await ctx.send("Messages deleted.")
 
 
-client.run(
-  '')
+client.run('')
