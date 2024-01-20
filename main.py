@@ -468,4 +468,4 @@ async def clear(ctx, amount: int):
 
 
 client.run(
-  'MTA3NzY4MDkxNjA5MDA3NzI0NA.GPVdfX.2cH5WjsDHrsXOn-y137CI1iiZosJeqrHkN4Dyg')
+  '')
