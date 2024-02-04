@@ -120,4 +120,4 @@ async def on_message_delete(message):
 
 
 client.run(
-  'MTA3NzY4MDkxNjA5MDA3NzI0NA.GZu8p2.z7q1kwj3KvBRXjjO5feGiX2Y7BHLIB9iezOWyc')
+  'TOKEN')
