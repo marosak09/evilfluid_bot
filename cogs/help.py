@@ -51,7 +51,7 @@ class help(commands.Cog):
                             color=discord.Color.blue())
         em.add_field(name="Server Info", value="Display server info: `.server_info`", inline=False)
         em.add_field(name="Log Room", value="Set log room: `.log_room <#text_channel>`", inline=False)
-        em.add_field(name="Warn roles", value="Set warn role: `.warn_role <role>`\nRemove role after warn: `.second_warn_role <role>`", inline=False)
+        em.add_field(name="Warn roles roles", value="Give role after 3 warns: `.role_to_give <role>`\nRemove role after warn: `.role_to_remove <role>`", inline=False)
         await ctx.send(embed=em)
 
 
